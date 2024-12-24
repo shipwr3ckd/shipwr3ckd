@@ -1,12 +1,24 @@
 # 💫 About Me:
-A malware analyst and tech enthusiast. 
+## A malware analyst and tech enthusiast. 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unc.avik) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/masterculprit) 
+[![Instagram]("https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg)](https://instagram.com/unc.avik) [![X](https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter1.svg)](https://x.com/masterculprit) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+# 💻 Tech I Use:
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android1.svg"> 
+  <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/Firefox/firefox1.svg">
+  <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/VisualStudio/visualstudio1.svg">
+  <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/Python/python1.svg">
+  <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/NodeJS/nodejs1.svg">
+  <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/HTML/html1.svg">
+  <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/Docker/docker1.svg">
+  <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/Cloudflare/cloudflare1.svg">
+  <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/Heroku/heroku1.svg">
+  <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/Vercel/vercel1.svg">
+  <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/Figma/figma1.svg">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=avik-o1&theme=neon&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=avik-o1&theme=neon&hide_border=true)<br/>
