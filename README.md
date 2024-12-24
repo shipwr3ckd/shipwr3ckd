@@ -1,5 +1,5 @@
 ## 💫 About Me:
-### A malware analyst and tech enthusiast. 
+### Malware analyst and a tech enthusiast. 
 
 
 ## 🌐 Socials:
