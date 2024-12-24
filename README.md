@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram]("https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg)](https://instagram.com/unc.avik) [![X](https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter1.svg)](https://x.com/masterculprit) 
+[![Instagram]("https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg)](https://instagram.com/unc.avik) [![Twitter]("https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter1.svg")](https://x.com/masterculprit) 
 
 # 💻 Tech I Use:
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg">
